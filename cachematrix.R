@@ -43,6 +43,4 @@ cacheSolve <- function(x, ...) {
   inv
   ## Return a matrix that is the inverse of 'x'
 }
-cachemat.txt
-Open
-Displaying cachemat.txt.
+
